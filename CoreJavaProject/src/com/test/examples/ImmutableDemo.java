@@ -6,6 +6,7 @@ public class ImmutableDemo {
 		
 		Student s = new Student(111, "surya");
 		System.out.println(+s.getSno()+"-"+s.getSname());
+		System.out.println("vghhhvjf");
 		
 		
 	}
